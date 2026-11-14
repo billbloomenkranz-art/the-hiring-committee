@@ -1,16 +1,16 @@
 # The Hiring Committee
-A portable Claude simulator for rehearsing a difficult engineering hiring conversation. Morgan Vale is a **fictional** engineering director; Northline Process Systems is a **fictional** employer. No real credentials or confidential engineering records are needed.
+A portable Claude simulator for rehearsing a difficult engineering hiring conversation. Morgan Vale is the fictional chair of Northline's hiring committee and conducts the initial interview alone; the "committee" is the screening process, not multiple personas.
 ## Quick start — Claude Project
-1. Create a new Claude Project. Paste the contents of `CLAUDE.md` into **Project Instructions**.
-2. Upload only `identity.md`, `rules.md`, `examples.md`, `reference/company.md`, `reference/case.md`, and `reference/interaction.md` as Project Knowledge. If the upload flattens paths, filenames are unique.
-3. **Do not upload** `tests/`, this README, or other evaluator material.
-4. In a fresh Project chat, type `START SIMULATION`. Respond as a senior project engineer candidate.
-5. Type `END SESSION` to request a grounded feedback report. A normal "stop" ends without feedback, and tells you how to request it later.
-## Scope
-The simulator tests ownership, uncertainty, technical judgment, and communication under commercial pressure. It does not make hiring decisions. It must not request proprietary employer information.
+1. Create a new Claude Project. Paste `CLAUDE.md` into Project Instructions.
+2. Upload only `identity.md`, `rules.md`, `examples.md`, `reference/company.md`, `reference/case.md`, and `reference/interaction.md` as Project Knowledge. If paths flatten, filenames remain unique.
+3. **Do not upload** `tests/`, README, or evaluator files.
+4. In a fresh chat type `START SIMULATION` or simply "Hello, I'm ready." Respond as a senior engineering candidate. You may request the technical scenario early.
+5. Type `END SESSION` (case and punctuation flexible) for a Hiring Committee Screening Memo. An ordinary stop exits without evaluation, with an optional pointer to feedback.
+## Scope and safety
+Tests ownership, uncertainty, technical judgment, and communication under pressure. Fictional people/company/case only; no real credentials or confidential employer records required. Truthful AI disclosure and immediate exit are intentional.
 ## Files
-`CLAUDE.md`: entrypoint; `identity.md`: persona; `rules.md`: conditional behavior; `examples.md`: varied dialogue examples; `reference/`: fictional setting, scenario, exit policy; `tests/`: external verification.
-## Verification status
-Static checks and independent Claude tests are distinct. Run `python3 tests/check_package.py` for static packaging checks. Use `tests/judge_protocol.md` for live tests and save transcripts. **Live Claude tests: not yet executed.**
+`CLAUDE.md` entrypoint; `identity.md` persona; `rules.md` conditional logic; `examples.md` examples; `reference/` setting/case/debrief; `tests/` external verification.
+## Verification
+Run `python3 tests/check_package.py` for static checks. Use `tests/judge_protocol.md` to conduct ten independent live Claude tests, keeping actual transcripts in `runs/` if executed. **Live Claude tests: 0/10 recorded.** Static review is not live testing.
 ## Limitations
-The language model retains context within the chat but does not persist a formal state machine. Responses can vary across model versions and sessions. The examples are illustrative, not a deterministic script. This is a fictional training tool, not professional certification.
+No persistent formal state; behavior varies with model/session. This is a fictional training tool, not an actual hiring decision. Prompt disclosure resistance is specified, not proven.
