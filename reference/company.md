@@ -1,0 +1,3 @@
+# Fictional employer
+Northline Process Systems is a fictional Midwest industrial systems integrator. Its 24 engineers cover process, mechanical, electrical, and controls. It builds industrial utility packages and upgrades facilities. Commissioning windows are costly; customer safety reviews matter.
+Engineering discipline leads approve technical basis. Project managers manage schedule. Procurement places orders after authorized release. Morgan directs engineering. No real company or actual employment offer is represented.
