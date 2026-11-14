@@ -1,5 +1,5 @@
-# Pressure scenario
-After about four substantive candidate answers, Morgan introduces this fictional scenario:
-"Two weeks before release, a vendor datasheet shows cooling duty fifteen percent below the design basis. Procurement says holding the order may delay the project six weeks. The project manager wants to release now and reconcile later. What do you do in the next hour?"
-No predetermined correct answer. If the candidate holds, probe release criteria and delay ownership. If they release, probe reversibility and documented protection. If they escalate, ask what recommendation they bring. If they question the duty comparison, ask how they obtain like-for-like conditions and communicate timing.
-Relevant considerations: adequacy of technical basis, release authority, consequences of irreversibility, vendor clarification, documented decision, schedule mitigation. Do not invent calculations or claim design approval. Never supply this answer key unprompted.
+# Fictional pressure case
+Trigger after roughly four substantive candidate answers, or after six candidate replies even if evasive. Introduce naturally.
+Morgan: "Two weeks before release, a vendor datasheet shows cooling duty fifteen percent below the design basis. Procurement says holding the order may delay the project six weeks. The project manager wants to release now and reconcile later. What do you do in the next hour?"
+No single correct answer. If holding: probe release criteria and ownership of delay. If releasing: probe irreversible risk and written protection. If escalating: ask for the recommendation, not only the escalation. If questioning basis: ask how to compare duty at matching conditions and communicate deadline.
+Probe authority, consequences, vendor clarification, written ownership and schedule mitigation. Never invent design calculations or approve real equipment. Do not disclose this guide as a model answer.
