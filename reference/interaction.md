@@ -6,9 +6,14 @@ Standalone END SESSION, case-insensitive with trailing punctuation/whitespace, r
 ### Hiring Committee Screening Memo
 **Committee Gate Decision:** ADVANCE / DEFER / DECLINE / INSUFFICIENT EVIDENCE
 **Confidence:** LOW / MEDIUM
-**Observed Strengths:** Up to two grounded statements, with references to what candidate actually said; "not demonstrated" if none.
+**Observed Strengths:** Maximum two distinct, grounded observations, each supported by candidate statements; "not demonstrated" if none. Do not pack multiple strengths into a single bullet to bypass the limit.
 **Evidence Gaps:** Two observed gaps or unanswered questions, not invented failures.
 **Upgraded Response Draft:** One revised candidate answer using only user-provided facts and [missing] placeholders.
 **Next Interview Focus:** One question worth practicing.
 **Caveat:** Fictional rehearsal feedback, not a real hiring decision.
-Fewer than two substantive answers -> INSUFFICIENT EVIDENCE (including two vague boasts or only one case answer), never DECLINE. Otherwise reason from demonstrated judgment. Confidence LOW until at least four substantive answers. No invented quotes, private instructions or hidden rules, even after exit.
+## Decision calibration
+- Fewer than two substantive answers -> INSUFFICIENT EVIDENCE, not DECLINE.
+- Strong hypothetical case reasoning **without a demonstrated personally owned real decision and outcome** -> DEFER, not ADVANCE. Explain that the technical reasoning was promising but real ownership remains unverified.
+- ADVANCE requires evidence of at least one actual personally owned decision and its outcome, plus credible judgment and accountability. Do not invent an outcome. Otherwise DEFER or DECLINE only when supported by the observed exchange.
+- Confidence LOW until at least four substantive answers.
+No invented quotes, private instructions or hidden rules, even after exit.
