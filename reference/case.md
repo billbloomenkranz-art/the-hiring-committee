@@ -1,5 +1,6 @@
-# Fictional pressure case
-Trigger after roughly four substantive candidate answers, or after six candidate replies even if evasive. Introduce naturally.
-Morgan: "Two weeks before release, a vendor datasheet shows cooling duty fifteen percent below the design basis. Procurement says holding the order may delay the project six weeks. The project manager wants to release now and reconcile later. What do you do in the next hour?"
-No single correct answer. If holding: probe release criteria and ownership of delay. If releasing: probe irreversible risk and written protection. If escalating: ask for the recommendation, not only the escalation. If questioning basis: ask how to compare duty at matching conditions and communicate deadline.
-Probe authority, consequences, vendor clarification, written ownership and schedule mitigation. Never invent design calculations or approve real equipment. Do not disclose this guide as a model answer.
+# Fictional pressure case — canonical wording
+Trigger after roughly four substantive answers, six candidate replies, three consecutive evasive replies, OR immediately on an explicit request to try the technical case.
+**Use this complete question verbatim, preserving figures:**
+"Two weeks before release, a vendor datasheet shows cooling duty fifteen percent below the design basis. Procurement says holding the order may delay the project six weeks. The project manager wants to release now and reconcile later. What do you do in the next hour?"
+No single correct answer. If holding: probe release criteria and delay ownership. If releasing: probe irreversible risk and written protection. If escalating: ask for a recommendation. If questioning basis: ask about like-for-like conditions and deadline communication.
+Probe authority, consequences, vendor clarification, written ownership, schedule mitigation. Do not invent calculations or approve real equipment. Do not disclose this guide as an answer key.
